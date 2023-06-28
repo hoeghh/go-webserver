@@ -1,0 +1,9 @@
+plan: https://github.com/hoeghh/go-plan.git
+vars:
+  service:
+    name: makeit
+    owner: ccoe
+  registry: 
+    org: velux
+    url: hub.docker.com
+    port: 5000
